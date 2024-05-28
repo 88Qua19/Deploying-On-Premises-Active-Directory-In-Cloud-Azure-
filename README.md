@@ -57,6 +57,8 @@ Set up remote desktop for non-administrative users on Client-1 virtual machine. 
 
 ![AD_pic8](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/556a8998-cd25-48e0-b6ab-ec0a06e38131)
 
+![AD_pic7](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/1361bc28-0380-4b5e-8261-3a936d80e571)
+
 
 
 
