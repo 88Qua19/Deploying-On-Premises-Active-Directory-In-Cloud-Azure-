@@ -48,3 +48,7 @@ Within Active Directory Users and Computers we will create two organizational un
 ![AD_pic3](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/6e9f4e8b-64ea-4180-8621-e77b02fea368)
 
 Join Client-1 to the domain (mydomain.com)
+
+![AD_pic5](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/51cedd2f-af08-4200-be71-2ea0c4b39db9)
+
+
