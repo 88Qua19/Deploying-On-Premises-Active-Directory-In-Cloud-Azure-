@@ -56,3 +56,7 @@ Join Client-1 to the domain (mydomain.com)
 Set up remote desktop for non-administrative users on Client-1 virtual machine. Using Powershell as an admin. we will use a script to add 100 additional users and we will attempt to log in as one of the created users.
 
 ![AD_pic8](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/556a8998-cd25-48e0-b6ab-ec0a06e38131)
+
+![AD_pic7](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/2475d4d4-6eb0-4c7d-9b73-04eac6b9ef32)
+
+
