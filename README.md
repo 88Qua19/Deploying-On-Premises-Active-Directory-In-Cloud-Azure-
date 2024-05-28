@@ -45,3 +45,5 @@ Using remote desktop we logged into Client-1's virtual machine and initiated a p
 
 Within Active Directory Users and Computers we will create two organizational units, _EMPLOYEES & _ADMINS. We will be adding Jane doe as an employee. She will also be added into security group "Domain Admins".
 
+![AD_pic3](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/6e9f4e8b-64ea-4180-8621-e77b02fea368)
+
