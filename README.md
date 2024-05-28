@@ -31,6 +31,13 @@
   <li>Step 6- Setup remote desktop for non-administrative users on Client-1</li>
   <li>Step 7- Create additional users using Powershell script</li>
   </ul>
-  <p>
 
   
+  <H3>
+Setup Virtual Machines in Azure Cloud
+    
+ ![AD_1](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/7d678875-296f-4a05-acaa-093c2079b941) 
+
+
+Using remote desktop we logged into Client-1's virtual machine and initiated a perpetual ping using DC-1's private IP address. We observed the success of the ping.
+
