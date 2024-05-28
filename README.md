@@ -41,3 +41,7 @@ Setup Virtual Machines in Azure Cloud
 
 Using remote desktop we logged into Client-1's virtual machine and initiated a perpetual ping using DC-1's private IP address. We observed the success of the ping.
 
+![AD_pic2](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/1625edcc-f839-4006-b3b0-02dcf343955e)
+
+Within Active Directory Users and Computers we will create two organizational units, _EMPLOYEES & _ADMINS. We will be adding Jane doe as an employee. She will also be added into security group "Domain Admins".
+
