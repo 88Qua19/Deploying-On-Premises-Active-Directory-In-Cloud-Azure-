@@ -59,7 +59,7 @@ Set up remote desktop for non-administrative users on Client-1 virtual machine. 
 
 ![AD_pic7](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/1361bc28-0380-4b5e-8261-3a936d80e571)
 
-logged in as one of the added users from the script. We tested the logging with command line (whoami)
+logged in as one of the added users from the script. We tested the log in with command line (whoami)
 
 ![AD_lastpic](https://github.com/88Qua19/Deploying-On-Premises-Active-Directory-In-Cloud-Azure-/assets/169956201/f8a5bb14-23a2-423e-8fd0-66a52aa76985)
 
